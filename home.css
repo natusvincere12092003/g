@@ -1,0 +1,10 @@
+body {
+    font-size:16px;
+    margin:0px;
+    padding:0px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color:#1bafdb;
+    font-family: Arial;
+}
